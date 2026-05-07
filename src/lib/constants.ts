@@ -3,7 +3,7 @@ export const SITE_CONFIG = {
   url: process.env.NEXT_PUBLIC_APP_URL ?? "http://localhost:3000",
   description: "Next.js v15 + TailwindCSS v4 + shadcn/ui 스타터킷",
   links: {
-    github: "https://github.com/your-username/claude-nextjs-starterkit",
+    github: "https://github.com/ehdgurckdgnl/claude-nextjs-starterkit",
   },
 } as const
 
